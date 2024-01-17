@@ -201,15 +201,16 @@
   width: 1502.01px;
   height: 94.6px;
 }
-.contact,
 .div2,
 .group-child {
   position: absolute;
   left: 0;
 }
 .contact {
+  position: fixed;
   width: 100%;
   right: 0;
+  left: 0;
   bottom: 0;
   height: 1216px;
   text-align: center;
