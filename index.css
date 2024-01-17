@@ -176,6 +176,15 @@
   height: 509.27px;
   object-fit: cover;
 }
+.span {
+  top: 1215px;
+  left: 228px;
+  font-weight: 500;
+  display: flex;
+  align-items: flex-end;
+  width: 266px;
+  height: 360px;
+}
 .photo-2023-07-01-19-02-40-1-icon {
   top: 417px;
   left: 1074px;
