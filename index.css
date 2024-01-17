@@ -126,6 +126,21 @@
   left: 0;
   width: 1541px;
 }
+
+.div4 {
+  position: absolute;
+  top: 112px;
+  left: 74px;
+  text-transform: uppercase;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 354px;
+  height: 546px;
+  text-shadow: 4px 4px 6px #c29fea;
+  mix-blend-mode: multiply;
+}
+
 .contact {
   top: 7739px;
   height: 1216px;
