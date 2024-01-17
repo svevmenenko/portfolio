@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-caviar-dreams: "Caviar Dreams";
+  --font-futura-md: "Futura Md";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-77xl: 96px;
+  --font-size-45xl: 64px;
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --bg-color: #090505;
+  --color-gainsboro-100: rgba(217, 217, 217, 0.2);
+  --font-color: #f2eaea;
+  --color-white: #fff;
+  --color-maroon: #87060f;
+  --color-goldenrod: #f4b800;
+
+  /* Border radiuses */
+  --br-55xl: 74px;
+}
