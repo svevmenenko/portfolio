@@ -270,7 +270,7 @@
 .p {
   margin: 0;
 }
-.div4 {
+.span {
   position: absolute;
   top: 112px;
   left: 74px;
@@ -466,7 +466,7 @@
 .txt-yellow-bg {
   object-fit: cover;
 }
-.div5 {
+.span1 {
   position: absolute;
   top: 126px;
   left: 61px;
@@ -584,7 +584,7 @@
 .txt {
   width: 100%;
 }
-.span {
+.span2 {
   position: absolute;
   top: 253.99px;
   left: 0;
@@ -679,12 +679,12 @@
   height: 775px;
   object-fit: cover;
 }
-.div6,
 .icon1,
-.intr2 {
+.intr2,
+.span3 {
   position: absolute;
 }
-.div6 {
+.span3 {
   top: 203px;
   left: 177px;
   font-weight: 500;
