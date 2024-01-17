@@ -28,18 +28,21 @@
 }
 .telegram-3-icon {
   position: absolute;
-  bottom: 60.55px;
-  left: 70px;
+  bottom: 57.55px;
+  left: 57px;
   width: 100px;
   height: 104.45px;
   overflow: hidden;
 }
 .svewmenenko {
-  top: 118px;
+  margin: 0;
+  top: 120px;
+  font-size: inherit;
   letter-spacing: 0.01em;
   font-weight: 500;
+  font-family: inherit;
 }
-.div,
+.h5,
 .svewmenenko,
 .telega {
   position: absolute;
@@ -47,13 +50,16 @@
 }
 .telega {
   bottom: 0;
-  width: 239px;
-  height: 165px;
+  width: 212px;
+  height: 162px;
 }
-.div {
+.h5 {
+  margin: 0;
   top: 128px;
+  font-size: inherit;
   letter-spacing: 0.01em;
   font-weight: 500;
+  font-family: inherit;
 }
 .whatsapp-3-icon {
   position: absolute;
@@ -66,48 +72,49 @@
 .whatsapp {
   position: absolute;
   top: 0;
-  left: 333px;
+  left: 320px;
   width: 285px;
   height: 170px;
-  font-size: var(--font-size-13xl);
 }
 .instagram-3-icon {
   position: absolute;
-  bottom: 60.55px;
-  left: 65px;
+  bottom: 57.55px;
+  left: 53px;
   width: 100px;
   height: 104.45px;
   overflow: hidden;
 }
+.insta {
+  top: 8px;
+  left: 716px;
+  width: 204px;
+  height: 162px;
+}
+.h2,
+.h6,
 .icons,
 .insta {
   position: absolute;
 }
-.insta {
-  top: 8px;
-  left: 717px;
-  width: 229px;
-  height: 165px;
-}
 .icons {
-  bottom: 246px;
-  left: 295px;
-  width: 946px;
-  height: 173px;
+  bottom: 249px;
+  left: 308px;
+  width: 920px;
+  height: 170px;
 }
-.div1,
-.h2 {
-  position: absolute;
+.h2,
+.h6 {
+  margin: 0;
   letter-spacing: 0.01em;
 }
-.div1 {
+.h6 {
   top: 1014px;
   left: 597px;
   font-size: var(--font-size-5xl);
   font-weight: 500;
+  font-family: inherit;
 }
 .h2 {
-  margin: 0;
   bottom: 453.4px;
   left: 0;
   font-size: var(--font-size-29xl);
@@ -130,7 +137,7 @@
   top: 7739px;
   height: 1216px;
   text-align: center;
-  font-size: var(--font-size-17xl);
+  font-size: var(--font-size-13xl);
   color: var(--color-white);
   font-family: var(--font-futura-md);
 }
@@ -195,13 +202,17 @@
 .photo-2023-07-13-15-39-46-1-icon {
   left: 0;
 }
-.images,
 .img {
-  position: absolute;
   top: 35px;
   left: 34px;
   width: 1305px;
   height: 412px;
+}
+.h1,
+.h3,
+.images,
+.img {
+  position: absolute;
 }
 .images {
   top: 359px;
@@ -209,16 +220,21 @@
   width: 1373px;
   height: 447px;
 }
-.div2,
-.div3 {
-  position: absolute;
-  top: 62px;
+.h1,
+.h3 {
+  margin: 0;
   left: 0;
   text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
 }
-.div3 {
+.h1 {
+  top: 79px;
+  font-size: inherit;
+}
+.h3 {
   top: 0;
-  font-size: 40px;
+  font-size: var(--font-size-29xl);
   letter-spacing: 0.1em;
   color: var(--color-white);
 }
@@ -228,7 +244,7 @@
   top: 84px;
   left: 181px;
   width: 633px;
-  height: 174px;
+  height: 191px;
 }
 .accessories {
   top: 7499px;
@@ -267,16 +283,15 @@
 .bg-balloon-icon {
   object-fit: cover;
 }
-.p {
+.h31 {
   margin: 0;
-}
-.span {
   position: absolute;
   top: 112px;
   left: 74px;
+  font-size: inherit;
   text-transform: uppercase;
   font-weight: 500;
-  white-space: pre-wrap;
+  font-family: inherit;
   display: inline-block;
   width: 354px;
   height: 546px;
@@ -466,12 +481,18 @@
 .txt-yellow-bg {
   object-fit: cover;
 }
-.span1 {
+.h4,
+.p {
+  margin: 0;
+}
+.h4 {
   position: absolute;
   top: 126px;
   left: 61px;
+  font-size: inherit;
   text-transform: uppercase;
   font-weight: 500;
+  font-family: inherit;
   display: inline-block;
   width: 361px;
   height: 349px;
@@ -584,7 +605,8 @@
 .txt {
   width: 100%;
 }
-.span2 {
+.h51 {
+  margin: 0;
   position: absolute;
   top: 253.99px;
   left: 0;
@@ -679,15 +701,18 @@
   height: 775px;
   object-fit: cover;
 }
+.h61,
 .icon1,
-.intr2,
-.span3 {
+.intr2 {
   position: absolute;
 }
-.span3 {
+.h61 {
+  margin: 0;
   top: 203px;
   left: 177px;
+  font-size: inherit;
   font-weight: 500;
+  font-family: inherit;
   display: inline-block;
   width: 430px;
   height: 272px;
@@ -777,7 +802,7 @@
 .shading {
   height: 653px;
 }
-.h1,
+.h11,
 .h24 {
   margin: 0;
   font-weight: 400;
@@ -793,7 +818,7 @@
   width: 962px;
   height: 71.13px;
 }
-.h1 {
+.h11 {
   top: 56px;
   left: calc(50% - 496px);
   font-size: var(--font-size-77xl);
@@ -803,18 +828,20 @@
   height: 321.04px;
   text-shadow: 0 0 10px #000;
 }
-.h1,
-.p16,
+.h11,
+.h62,
 .text {
   position: absolute;
 }
-.p16 {
+.h62 {
   margin: 0;
   top: 0;
   left: 0;
   font-size: var(--font-size-5xl);
   letter-spacing: 0.01em;
   text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
   color: var(--color-white);
 }
 .text {
